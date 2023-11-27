@@ -28,7 +28,7 @@ class MachineTest(unittest.TestCase):
         self.assertEqual(result, "HELLO,WORLD")
 
     # def test_prob5(self):
-    #     print("Testing problem5")
+    #     print("Testing problem2")
     #     translator.translate("./forth/prob2.forth", "./forth/target")
     #     result = machine.start("./forth/target", '')
     #
